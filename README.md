@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GlitchGod42
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning coding in lua
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning coding in lua and C#
+- 💞️ I’m looking to collaborate on deez nuts
 - 📫 How to reach me glitchon120hz on discord or email me at tobikmotyka54@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
